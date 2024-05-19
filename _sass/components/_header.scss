@@ -121,3 +121,16 @@
     @include split-line(bottom, 4px, $main-color-1);
   }
 }
+
+/* Changing Header Font */
+@font-face {
+  font-family: 'IM Fell DW Pica';
+  src: url('/IMFellDWPica-Regular.ttf') format('truetype');
+}
+
+/* Apply Header Font */
+.header,
+.header__title,
+.header__brand > a {
+  font-family: 'IM Fell DW Pica';
+}
