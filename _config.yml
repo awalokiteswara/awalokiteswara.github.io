@@ -22,7 +22,7 @@ url     : https://awalokiteswara.github.io # the base hostname & protocol for yo
 baseurl : # does not include hostname
 title   : Awalokiteswara
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  
 
 
 ## => Language and Timezone
@@ -37,7 +37,7 @@ author:
   type      : person # "person" (default), "organization"
   name      : Rifky Bagas Ramadhani
   url       : #
-  avatar    : https://simp6.host.church/images3/dcab67c499fe922628c79d5d3ad1b021b8cc3a3b_s2_n2_y1c11b1ebbd4446bb8.jpg # path or url of avatar image (square)
+  avatar    : https://simp6.host.church/images3/cropped-avatar17f5a009eb682a2d.png # path or url of avatar image (square)
   bio       : NIM 235030100111096 IAP UB 2023.
   email     : #
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
