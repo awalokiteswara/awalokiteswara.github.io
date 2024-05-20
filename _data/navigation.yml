@@ -26,7 +26,7 @@ header:
     url: /archive.html
 
 - title: Astro
-url: https://kidjangdjati.pages.dev
+  url: https://kidjangdjati.pages.dev
 
   - titles:
       # @start locale config
