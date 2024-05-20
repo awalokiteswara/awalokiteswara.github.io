@@ -1,6 +1,7 @@
 header:
-- title: Home
-url: /
+- title: 
+en : &EN  Home
+url: https://awalokiteswara.github.io/
   - titles:
       # @start locale config
       en      : &EN       Archive
