@@ -23,7 +23,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       Ana sayfa
       # @end locale config
-    url: https://awalokiteswara.github.io/
+    url: https://awalokiteswara.github.io
     
   - titles:
       # @start locale config
