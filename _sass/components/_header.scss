@@ -128,9 +128,19 @@
   src: url('/IMFellDWPica-Regular.ttf') format('truetype');
 }
 
+/* Add Italic for header title */
+@font-face {
+  font-family: 'IM Fell DW Pica Italic';
+  src: url('/IMFellDWPica-Italic.ttf') format('truetype');
+}
+
 /* Apply Header Font */
 .header,
-.header__title,
 .header__brand > a {
   font-family: 'IM Fell DW Pica';
+}
+
+/* Apply Italic title */
+.header__title {
+  font-family: 'IM Fell DW Pica Italic';
 }
