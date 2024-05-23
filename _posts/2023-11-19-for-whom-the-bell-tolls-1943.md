@@ -6,6 +6,9 @@ aside:
   toc: true
 ---
 <div class="hero hero--dark" style='background-image: url("https://a.ltrbxd.com/resized/sm/upload/0i/an/5g/rh/for%20whom-1200-1200-675-675-crop-000000.jpg?v=210f6c61c4");'>
+ <div class="hero__content">
+  <h3></h3>
+ </div>
 </div>
 
 <style>
