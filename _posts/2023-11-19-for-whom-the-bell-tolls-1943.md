@@ -1,7 +1,7 @@
 ---
 layout: article
 title: For Whom The Bell Tolls (1943)
-tags: Trivia
+tags: Movie
 aside:
   toc: true
 ---
@@ -31,10 +31,10 @@ Spain in the 1930s is the place to be for a man of action like Robert Jordan. Th
 <div class="button button--primary button--pill my-2"><i class="fa fa-map" aria-hidden="true"></i> ADVENTURE</div>
 </div>
 <div class="cell cell--6 cell--md-4 cell--lg-2">
-<div class="button button--secondary button--pill my-2"><i class="fa fa-heart" aria-hidden="true"></i> DRAMA</div>
+<div class="button button--primary button--pill my-2"><i class="fa fa-heart" aria-hidden="true"></i> DRAMA</div>
 </div>
 <div class="cell cell--6 cell--md-4 cell--lg-2">
-<div class="button button--success button--pill my-2"><i class="fa fa-bomb" aria-hidden="true"></i> WAR</div>
+<div class="button button--primary button--pill my-2"><i class="fa fa-bomb" aria-hidden="true"></i> WAR</div>
 </div>
 </div>
 </div>
@@ -58,3 +58,11 @@ This film saved the famous love song "As Time Goes By" from being removed from C
 # Trailer
 
 <div>{%- include extensions/youtube.html id='-B3MQoKQ_vI' -%}</div>
+
+<script>
+  {%- include scripts/lib/swiper.js -%}
+var SOURCES = window.TEXT_VARIABLES.sources;
+window.Lazyload.js(SOURCES.jquery, function() {
+  $('.swiper-demo').swiper();
+});
+</script>
