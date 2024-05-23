@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Agatha Christie’s Poirot: Appointment With Death (2010)
-tags: Movie, Crime, Mystery, Drama
+tags: Movie
 aside:
   toc: true
 ---
@@ -34,7 +34,7 @@ Syria, 1937: Hercule Poirot is one of several people present at an archaeologica
 <div class="button button--primary button--pill my-2"><i class="fas fa-search"></i> MYSTERY</div>
 </div>
 <div class="cell cell--6 cell--md-3 cell--lg-2">
-<div class="button button--secondary button--pill my-2"><i class="fa-solid fa-heart"></i> DRAMA</div>
+<div class="button button--secondary button--pill my-2"><i class="fa fa-heart" aria-hidden="true"></i> DRAMA</div>
 </div>
 <div class="cell cell--6 cell--md-3 cell--lg-2">
 <div class="button button--success button--pill my-2"><i class="fas fa-skull"></i> CRIME</div>
