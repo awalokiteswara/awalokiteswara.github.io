@@ -81,6 +81,22 @@
   {%- endif -%}
 {%- endif -%}
 
+          {%- if page.repo -%}
+            {%- assign _repo = site.github.public_repositories | where: "full_name", page.repo -%}
+            <li>
+              <a href="{{ _repo[0].html_url }}" rel="noopener noreferrer" target="_blank">GitHub</a>
+            </li>
+
+            <li>
+              <i class="far fa-star"></i> {{ _repo[0].stargazers_count }}
+            </li>
+          {%- endif -%}
+        </ul>
+      {%- endif -%}
+
+    </div>
+  {%- endif -%}
+{%- endif -%}
 
 {%- if include.semantic != false -%}
   {%- if _author -%}
