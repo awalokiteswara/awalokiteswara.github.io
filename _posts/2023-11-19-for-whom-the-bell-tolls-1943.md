@@ -12,7 +12,7 @@ aside:
 .swiper-demo {
     height: 220px;
   }
-  .swiper-demo .swiper__slide {
+.swiper-demo .swiper__slide {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -28,13 +28,13 @@ Spain in the 1930s is the place to be for a man of action like Robert Jordan. Th
 <div class="grid-container">
 <div class="grid grid--p-1">
 <div class="cell cell--6 cell--md-4 cell--lg-2">
-<div class="button button--primary button--pill my-2"><i class="fa-solid fa-map"></i> ADVENTURE</div>
+<div class="button button--primary button--pill my-2"><i class="fa fa-map" aria-hidden="true"></i> ADVENTURE</div>
 </div>
 <div class="cell cell--6 cell--md-4 cell--lg-2">
-<div class="button button--secondary button--pill my-2"><i class="fa-solid fa-heart"></i> DRAMA</div>
+<div class="button button--secondary button--pill my-2"><i class="fa fa-heart" aria-hidden="true"></i> DRAMA</div>
 </div>
 <div class="cell cell--6 cell--md-4 cell--lg-2">
-<div class="button button--success button--pill my-2"><i class="fa-solid fa-bomb"></i> WAR</div>
+<div class="button button--success button--pill my-2"><i class="fa fa-bomb" aria-hidden="true"></i> WAR</div>
 </div>
 </div>
 </div>
