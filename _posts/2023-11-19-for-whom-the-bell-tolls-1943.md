@@ -56,7 +56,13 @@ Spain in the 1930s is the place to be for a man of action like Robert Jordan. Th
 
 # Trivia
 
+## Save the famous love song
+
 This film saved the famous love song "As Time Goes By" from being removed from Casablanca (1942). Ingrid Bergman began filming this movie immediately after completing "Casablanca". For this role, her hair was cut short. Meanwhile, for "Casablanca", Warner Brothers wanted to substitute another song for "As Time Goes By" and re-shoot some scenes with Bergman. However, since her hair had been cut, there would be a problem with continuity (even if Bergman wore a wig), so the idea was dropped.
+
+## Gary Cooper's horse falls
+
+At the film's conclusion, Gary Cooper's horse falls and breaks its leg. The only horse the crew could get to do the stunt was brown, but Cooper's horse throughout the film was gray. Rather than re-shoot much of the film, Cooper's brown stunt horse was painted gray.
 
 # Trailer
 
