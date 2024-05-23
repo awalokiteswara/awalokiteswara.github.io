@@ -74,12 +74,6 @@
               <li><i class="far fa-eye"></i> <span class="js-pageview" data-page-key="{{ include.article.key }}">0</span> {{ _locale_views }}</li>
             {%- endif -%}
           {%- endif -%}
-        </ul>
-      {%- endif -%}
-
-    </div>
-  {%- endif -%}
-{%- endif -%}
 
           {%- if page.repo -%}
             {%- assign _repo = site.github.public_repositories | where: "full_name", page.repo -%}
@@ -93,7 +87,7 @@
           {%- endif -%}
         </ul>
       {%- endif -%}
-
+      
     </div>
   {%- endif -%}
 {%- endif -%}
