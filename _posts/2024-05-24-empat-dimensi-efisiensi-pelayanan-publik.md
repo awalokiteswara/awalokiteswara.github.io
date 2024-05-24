@@ -6,26 +6,20 @@ aside:
   toc: true
 ---
 
-<style>
-.justify {
-    text-align: justify;
-    text-justify: inter-ideograph;
-    text-indent: 10%;
-    margin: 0;
-    padding: 0;
-  }
-</style>
+<div class="hero hero--dark" style='background-image: url("https://nextsteps.idaho.gov/assets/uploads/2020/06/government-2048x1067.jpg");'>
+ <div class="hero__content">
+  <h3></h3>
+ </div>
+</div>
   
 # Efisiensi Pelayanan Publik
 
-<span class="justify">
 <p>Samuelson dan Nordhaus (2005) mengidentifikasi tiga pertanyaan ekonomi mendasar: barang apa yang diproduksi, bagaimana barang tersebut dibuat, dan untuk siapa. Pertanyaan keempat adalah kapan harus berproduksi, menyeimbangkan konsumsi saat ini dan masa depan. Teori ekonomi menyatakan persaingan sempurna menjawab pertanyaan-pertanyaan ini secara efisien melalui tindakan yang mementingkan diri sendiri dan dinamika pasar bebas.</p>
 <p>Namun, pasar riil seringkali tidak sempurna, sehingga membenarkan intervensi pemerintah. Ironisnya, intervensi ini tidak selalu lebih efisien dibandingkan pasar yang digantikannya (Moore, 1995). Berbeda dengan pasar swasta, pelayanan publik tidak bisa hanya mengandalkan kepentingan pribadi untuk mencapai efisiensi. Sebaliknya, mereka bergantung pada profesionalisme dan motivasi pelayanan publik pegawai pemerintah.</p>
 <p>Teori menyatakan bahwa pegawai negeri, yang dimotivasi oleh kepentingan publik, memastikan penggunaan sumber daya secara efisien. Namun, motivasi ini dapat menyebabkan penyediaan yang berlebihan atau inefisiensi. Sebaliknya, para ahli teori pilihan publik berpendapat bahwa kepentingan pribadi dapat mendorong efisiensi jika insentif diselaraskan dengan baik, namun kepentingan pribadi yang tidak terkendali dapat menjadi tidak berfungsi.</p>
 <p>Kedua teori tersebut tidak memiliki bukti kuat yang menghubungkannya dengan efisiensi pelayanan publik. Efisiensi dalam pelayanan publik harus menjadi tujuan kebijakan yang disengaja. Kebutuhan ini menjelaskan munculnya Manajemen Publik Baru (NPM), yang mengadopsi teknik sektor swasta seperti manajemen kinerja dan outsourcing untuk meningkatkan efisiensi. Namun, bukti keberhasilan mereka beragam (Andrews, 2010).</p>
 <p>NPM berfokus pada efisiensi produktif—memaksimalkan keluaran dibandingkan masukan—tetapi mengabaikan dimensi lain seperti efisiensi alokatif, distributif, dan dinamis. Fokus yang sempit ini dapat menimbulkan konsekuensi negatif yang tidak diinginkan, seperti penurunan kualitas layanan atau peningkatan beban administratif. Kritikus berpendapat bahwa fokus ini melemahkan nilai-nilai demokrasi dan menjadikan pemerintah hanya sekedar melakukan pemotongan biaya.</p>
 <p>Menolak efisiensi karena bertentangan dengan tujuan pemerintah adalah tindakan yang kontraproduktif. Sebaliknya, berbagai nilai sektor publik harus diintegrasikan ke dalam konsep efisiensi. Bagian berikutnya mengeksplorasi bagaimana berbagai dimensi efisiensi—produktif, alokatif, distributif, dan dinamis—dapat memberikan masukan bagi teori dan praktik manajemen publik.</p>
-</span>
 
 ## Dimensi 1: Efisiensi Produktif
 
