@@ -26,49 +26,40 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+<div class="hero hero--center hero--dark" style='background-image: url("https://i.pinimg.com/736x/e4/64/7a/e4647a866e8da769808e1eef1b80c29a.jpg");'>
+  <div class="hero__content">
+    <h3>Welcome!</h3>
+  </div>
+</div>
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+Welcome to my corner of the internet! I'm delighted that you've found your way here. My name is Rifky, and I have a passion for exploring and writing about a diverse array of topics. This space is where I share my thoughts, insights, and discoveries on everything from movies and music to scientific articles and beyond.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+### A Bit About My Journey 🚀🛤️
 
-## Features
+My journey as a writer began as a curious child, fascinated by stories, facts, and the endless possibilities of imagination. Growing up, I was the kid who always had a book in hand or was scribbling down thoughts in a notebook. This love for words evolved into a career where I now have the privilege to explore a multitude of subjects and share them with you.
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+### Diverse Interests, One Passion 🌐❤️
 
-## Skins
+One of the hallmarks of my writing is its diversity. I believe that life is too rich and varied to be confined to a single genre or topic. Here, you'll find a blend of content that reflects my wide-ranging interests:
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+- **Movies 🎬🍿** I love the magic of cinema. From the latest blockbusters to indie gems, I enjoy analyzing plot structures, character development, and the cinematic techniques that make films memorable. Whether it's a review of a new release or an in-depth analysis of a classic, I strive to bring a fresh perspective to the world of movies.
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+- **Music 🎵🎧** Music is a universal language that speaks to the soul. I write about different genres, album reviews, artist spotlights, and the cultural impact of music. My aim is to celebrate the artistry and emotion that music brings into our lives.
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+- **Science 🔬🧪** With a keen interest in science and technology, I delve into scientific discoveries, research articles, and the latest advancements in various fields. My goal is to make complex scientific concepts accessible and engaging, sparking curiosity and a deeper understanding of the world around us.
 
-### Highlight Theme
+### Why I Write ✍️💭
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+Writing is more than a hobby or profession for me; it's a way to connect with others and contribute to a larger conversation. Through my writing, I hope to inspire, inform, and entertain. I believe that sharing knowledge and perspectives can make a meaningful impact, whether it's through a thought-provoking article, a reflective blog post, or a detailed review.
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+### The Creative Process 🎨🧠
+
+My creative process is as varied as the topics I cover. Sometimes, inspiration strikes in the middle of a quiet afternoon or during a lively conversation with friends. Other times, it comes from a piece of music, a movie scene, or an intriguing scientific fact. I embrace these moments of inspiration, letting them guide my writing and shape the content I create.
+
+---
+
+Thank you for visiting, and I look forward to sharing many more stories, insights, and discoveries with you.
+
+Warm regards,  
+Rifky
+
