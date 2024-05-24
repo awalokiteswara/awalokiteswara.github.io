@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Agatha Christie’s Poirot: Appointment With Death (2010)
-tags: Movie
+title: Agatha Christie’s Poirot - Appointment With Death (2010)
+tags: Movie, Crime, Drama, Mystery
 aside:
   toc: true
 ---
