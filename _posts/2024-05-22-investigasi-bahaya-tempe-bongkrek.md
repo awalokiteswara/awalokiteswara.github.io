@@ -61,12 +61,13 @@ Sejak tahun 1975, keracunan tempe bongkrek telah mencapai lebih dari 3000 kasus.
 Mendeteksi keracunan asam bongkrek bisa dibilang menantang. Bakteri ini memang dapat diisolasi dari sampel makanan, namun teknik untuk mendeteksi langsung tingkat asam bongkrek pada sampel pasien langsung belum diketahui dengan baik. Kurangnya alat diagnostik, ditambah dengan sifat asam bongkrek yang tidak jelas (_obscure_), kemungkinan besar menyebabkan banyak kasus keracunan asam ini tidak dikenali atau salah diagnosis.
 Meski jarang terjadi di luar wilayah terdampak, kemampuan asam bongkrek dalam mencemari sumber makanan pokok menjadikannya ancaman kesehatan masyarakat yang sangat serius di wilayah yang terkena dampak. Mengingat belum ditemukannya antidot khusus racun ini, meningkatkan kesadaran, menerapkan praktik fermentasi yang lebih aman, dan mengembangkan tindakan pencegahan dan diagnostik yang lebih baik akan sangat penting untuk membatasi dampak mematikan asam bongkrek.
 
-### Referensi
+
+# Referensi
 [^1]: [Bab I Pendahuluan: UMS](https://eprints.ums.ac.id/11822/2/BAB_I.pdf)
 [^2]:  Deshpande SS. Bongkrek toxins. In: Handbook of food toxicology. New York: Marcel Decker; 2002. 
 [^3]: Denef VJ, Coenye T, Vandamme P. Biodegradation of organic anthropogenic pollutants by Burkholderia species. Burkholderia, Molecular Microbiology and Genomics. Horizon Bioscience, Norfolk, UK. 2007.
 [^4]: Song L, Jenner M, Masschelein J, Jones C, Bull MJ, Harris SR, Hartkoorn RC, Vocat A, Romero-Canelon I, Coupland P, Webster G. Discovery and biosynthesis of gladiolin: a Burkholderia gladioli antibiotic with promising activity against Mycobacterium tuberculosis. Journal of the American Chemical Society. 2017.
-[^5]: [Nature’s Poison: Toxic Tempeh: Death by Bongkrekic Acid](https://naturespoisons.com/2015/07/09/toxic-tempeh-death-by-bongkrekic-acid/)
+[^5]: [Nature’s Poison - Toxic Tempeh: Death by Bongkrekic Acid](https://naturespoisons.com/2015/07/09/toxic-tempeh-death-by-bongkrekic-acid/)
 [^6]: Garcia RA, Hotchkiss JH, Steinkraus KH. The effect of lipids on bongkrekic (bongkrek) acid toxin production by Burkholderia cocovenenans in coconut media. Food Addit Contam. 1999.
 [^7]: Cox J, Kartadarma E, Buckle KA. Burkholderia cocovenenans. In: Hocking AD, editor. Foodborne microorganisms of public healthsignificance. 6th ed. Sydney: Australian Institute of Food Science & Technology; 1997.
 [^8]: Anwar M, Kasper A, Steck AR, Schier JG. Bongkrekic acid—a review of a lesser-known mitochondrial toxin. Journal of Medical Toxicology. 2017.
