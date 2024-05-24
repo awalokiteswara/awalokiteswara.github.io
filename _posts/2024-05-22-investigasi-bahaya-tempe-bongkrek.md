@@ -56,12 +56,12 @@ Semua itu terjadi karena asam bongkrek merupakan penghambat translokase nukleoti
 
 # Kasus
 Sejak tahun 1975, keracunan tempe bongkrek telah mencapai lebih dari 3000 kasus.[^8] Di Indonesia, kasus keracunan tempe bongkrek dilaporkan mencapai angka 60% kematian. Kasus keracunan terkait asam bongkrek juga terjadi di negara lain. Di China terjadi kasus keracunan asam bongkrek dari produk fermentasi tepung jagung dan jejamuran.[^9] Pada tahun 2015, di Mozambik telah menelan kematian 75 orang diakibatkan keracunan terkait asam bongkrek.
+
 # Diagnosis dan Penanganan
 Mendeteksi keracunan asam bongkrek bisa dibilang menantang. Bakteri ini memang dapat diisolasi dari sampel makanan, namun teknik untuk mendeteksi langsung tingkat asam bongkrek pada sampel pasien langsung belum diketahui dengan baik. Kurangnya alat diagnostik, ditambah dengan sifat asam bongkrek yang tidak jelas (_obscure_), kemungkinan besar menyebabkan banyak kasus keracunan asam ini tidak dikenali atau salah diagnosis.
 Meski jarang terjadi di luar wilayah terdampak, kemampuan asam bongkrek dalam mencemari sumber makanan pokok menjadikannya ancaman kesehatan masyarakat yang sangat serius di wilayah yang terkena dampak. Mengingat belum ditemukannya antidot khusus racun ini, meningkatkan kesadaran, menerapkan praktik fermentasi yang lebih aman, dan mengembangkan tindakan pencegahan dan diagnostik yang lebih baik akan sangat penting untuk membatasi dampak mematikan asam bongkrek.
 
 ### Referensi
-
 [^1]: [Bab I Pendahuluan: UMS](https://eprints.ums.ac.id/11822/2/BAB_I.pdf)
 [^2]:  Deshpande SS. Bongkrek toxins. In: Handbook of food toxicology. New York: Marcel Decker; 2002. 
 [^3]: Denef VJ, Coenye T, Vandamme P. Biodegradation of organic anthropogenic pollutants by Burkholderia species. Burkholderia, Molecular Microbiology and Genomics. Horizon Bioscience, Norfolk, UK. 2007.
