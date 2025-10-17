@@ -37,7 +37,7 @@ author:
   type      : person # "person" (default), "organization"
   name      : Rifky Bagas Ramadhani
   url       : #
-  avatar    : https://simp6.host.church/images3/cropped-avatar17f5a009eb682a2d.png # path or url of avatar image (square)
+  avatar    : /170229316.png # path or url of avatar image (square)
   bio       : NIM 235030100111096, Mahasiswa Ilmu Administrasi Publik Universitas Brawijaya.
   email     : #
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
