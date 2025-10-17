@@ -6,7 +6,7 @@ aside:
   toc: true
 ---
 
-<div class="hero hero--dark" style='background-image: url("https://nextsteps.idaho.gov/assets/uploads/2020/06/government-2048x1067.jpg");'>
+<div class="hero hero--dark" style='background-image: url("https://fisip.undip.ac.id/wp-content/uploads/2024/10/Thumb-Pelayanan-Publik-di-Indonesia-Dari-Masalah-Birokrasi-Hingga-Solusi-Penguatan-Profesionalisme.png");'>
  <div class="hero__content">
   <h3></h3>
  </div>
