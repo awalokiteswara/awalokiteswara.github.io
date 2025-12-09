@@ -5,7 +5,7 @@ tags: Opinion
 aside:
   toc: true
 ---
-<div class="hero hero--dark" style='height: 800px; background-image: url("https://asset.kompas.com/crops/bvnmQIw7HE6WAMHRt7UnnnOhawA=/0x0:0x0/1200x800/data/photo/2022/11/22/637c7f6856888.jpg");'>
+<div class="hero hero--dark" style='height: 200px; background-image: url("https://asset.kompas.com/crops/bvnmQIw7HE6WAMHRt7UnnnOhawA=/0x0:0x0/1200x800/data/photo/2022/11/22/637c7f6856888.jpg");'>
 </div>
 
 <style>
