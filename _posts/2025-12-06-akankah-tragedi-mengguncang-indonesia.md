@@ -8,67 +8,35 @@ aside:
 <div class="hero hero--dark" style='height: 200px; background-image: url("https://asset.kompas.com/crops/bvnmQIw7HE6WAMHRt7UnnnOhawA=/0x0:0x0/1200x800/data/photo/2022/11/22/637c7f6856888.jpg");'>
 </div>
 
-<style>
-.swiper-demo {
-    height: 220px;
-  }
-.swiper-demo .swiper__slide {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 3rem;
-    color: #fff;
-  }
-</style>
+Pada 21 November 2022, gempa dangkal berkekuatan 5,6 magnitudo mengguncang Cianjur, Jawa Barat. Meski tergolong moderat, guncangan tersebut menimbulkan dampak yang sangat besar akibat kondisi tanah yang rapuh, permukiman padat di lereng perbukitan, dan bangunan yang tidak dirancang dengan penguatan memadai. Lebih dari 600 orang meninggal dunia, ribuan lainnya terluka, dan lebih dari 100.000 penduduk terpaksa mengungsi ketika longsor serta runtuhan bangunan menghancurkan kawasan permukiman dan sekolah (BNPB, 2023). Tragedi ini kembali menyoroti kerentanan struktural Indonesia, suatu isu yang telah lama dibahas dalam studi manajemen kebencanaan, yang menunjukkan bahwa bahaya alam selalu berinteraksi dengan kondisi sosial, ekonomi, dan politik sehingga menghasilkan dampak bencana tertentu (Wisner et al., 2004). Pola serupa terlihat dalam kasus-kasus seperti gempa-tsunami Sulawesi 2018, gempa Aceh 2016, dan erupsi Semeru 2021, yang masing-masing memperlihatkan persoalan mendasar Indonesia dalam kesiapsiagaan masyarakat, penegakan standar bangunan, dan koordinasi respons darurat (Djalante, 2018).
 
-# Storyline
+Trayektori pembangunan Indonesia dewasa ini juga memiliki kesamaan dengan guncangan-guncangan tersebut. Hampir tiga dekade sebelumnya, Indonesia menghadapi krisis berbeda namun sama besarnya: Krisis Keuangan Asia 1997-1998 yang memicu kemerosotan ekonomi dan pergolakan politik. Krisis tersebut meruntuhkan tatanan politik lama dan membuka jalan bagi reformasi kelembagaan, desentralisasi, serta demokratisasi (Hadiz & Robison, 2004). Peristiwa itu menegaskan premis utama dalam ilmu politik: krisis dapat membentuk ulang institusi dengan cepat, kadang ke arah yang lebih baik, kadang sebaliknya (Boin et al., 2009).
 
-Spain in the 1930s is the place to be for a man of action like Robert Jordan. There is a civil war going on and Jordan who has joined up on the side that appeals most to idealists of that era -- like Ernest Hemingway and his friends -- has been given a high-risk assignment up in the mountains. He awaits the right time to blow up a bridge in a cave. Pilar, who is in charge there, has an ability to foretell the future. And so that night she encourages Maria, a young girl ravished by enemy soldiers, to join Jordan who has decided to spend the night under the stars.
+Lalu, mau ke arah mana Indonesia bergerak?
 
-<div class="grid-container">
-<div class="grid grid--p-1">
-<div class="cell cell--6 cell--md-4 cell--lg-2">
-<div class="button button--primary button--pill my-2"><i class="fa fa-map" aria-hidden="true"></i> ADVENTURE</div>
-</div>
-<div class="cell cell--6 cell--md-4 cell--lg-2">
-<div class="button button--primary button--pill my-2"><i class="fa fa-heart" aria-hidden="true"></i> DRAMA</div>
-</div>
-<div class="cell cell--6 cell--md-4 cell--lg-2">
-<div class="button button--primary button--pill my-2"><i class="fa fa-bomb" aria-hidden="true"></i> WAR</div>
-</div>
-</div>
-</div>
+Gempa Cianjur terjadi di tengah masyarakat yang mana, meski mengalami kemajuan, tetap menghadapi persoalan struktural yang mengakar. Dalam satu dekade terakhir, pertumbuhan ekonomi Indonesia stabil di angka 4-5 persen per tahun, ditopang konsumsi domestik dan perbaikan infrastruktur. Namun ketimpangan, lemahnya tata kelola, dan inkonsistensi regulasi masih menjadi tantangan. Para peneliti mencatat bahwa desentralisasi memang memperluas otonomi daerah, tetapi juga menghasilkan kapasitas pemerintahan yang sangat beragam antarwilayah serta penegakan aturan yang tidak konsisten (Fitrani, Hofman & Kaiser, 2005). Ketimpangan kapasitas ini sangat memengaruhi tingkat kerentanan dan hasil penanganan bencana, terutama di wilayah pedesaan dan pinggiran kota *(peri-urban)* yang minim pengawasan terhadap konstruksi dan tata ruang.
 
-# Images
+Selama bertahun-tahun, pembangunan Indonesia selalu berfokus pada infrastruktur berskala besar, misalnya jalan tol, bandara, pelabuhan, bendungan, dan mega proyek perkotaan. Meski dapat meningkatkan konektivitas, pendekatan ini kerap dinilai mengabaikan investasi pada infrastruktur lokal yang tangguh serta perencanaan ruang yang berbasis risiko bencana *(Disaster-Risk)* (Amri et al., 2017). Tragedi Cianjur memperlihatkan ketimpangan tersebut dengan jelas, ribuan bangunan runtuh akibat kualitas materil yang buruk dan ketidakpatuhan terhadap standar konstruksi tahan gempa.
 
-<div class="swiper my-3 swiper-demo swiper-demo--image swiper-demo--3">
-  <div class="swiper__wrapper">
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://www.industrycentral.net/sites/default/files/2018-05/Cast-For_Whom_the_Bell_Tolls-%281943%29%2332-c_Pratt.jpg"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://m.media-amazon.com/images/S/pv-target-images/2eca7a060d6e3ff9cc42935f0362639416270df5cdabb67f024f9c7f1665f497._SX1080_FMpng_.png"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="https://filmforum.org/do-not-enter-or-modify-or-erase/client-uploads/menzies/FOR-WHOM-THE-BELL-TOLLS-R1520_1.jpg"/></div>
-  </div>
-  <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
-  <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
-</div>
+Bahkan sebelum bencana, Indonesia telah menghadapi tekanan fiskal, percepatan urbanisasi, dan fragmentasi tata kelola. Berulangnya kejadian bencana hanya memperbesar tantangan tersebut. Namun pemulihan pascabencana juga membuka peluang politik. Jika rekonstruksi dilakukan dengan visi jangka panjang, Indonesia berkesempatan memperbaiki kelemahan struktural klasik baik di bidang infrastruktur maupun tata kelola dan perencanaan pembangunan.
 
-# Trivia
+Di titik inilah Tata Kelola Risiko Bencana *(Disaster Risk Governance/DRG)* memainkan peran kunci. Dalam satu dekade terakhir, pemerintah memperkuat kapasitas kelembagaan melalui BNPB dan BPBD di seluruh Indonesia. Dengan merujuk pada kerangka DRR global seperti *Sendai Framework for Disaster Risk Reduction* 2015-2030 (UNDRR, 2015), lembaga-lembaga tersebut mengembangkan sistem peringatan dini *(Early Warning System)*, edukasi kebencanaan berbasis masyarakat *(Community based)*, penilaian multi-bahaya, serta koordinasi lintas tingkat pemerintahan (Djalante et al., 2017). Undang-Undang No. 24/2007 semakin memantapkan tata kelola risiko dengan menekankan pencegahan, mitigasi, dan kesiapsiagaan sebagai bagian penting dari siklus penanggulangan bencana.
 
-## Save the famous love song
+Namun implementasi di lapangan masih timpang. Beberapa provinsi telah mengembangkan sistem DRG yang kuat yang didukung integrasi data, unit respons cepat, dan kesiapsiagaan komunitas, sementara daerah lain menghadapi keterbatasan anggaran, koordinasi yang tidak efektif, serta minimnya tenaga profesional (Lassa et al., 2019). Pengintegrasian prinsip DRG dalam rekonstruksi Cianjur, mulai dari tata ruang berbasis risiko, standar perumahan tahan gempa, hingga partisipasi masyarakat, akan menjadi penentu apakah pemulihan menghasilkan ketangguhan jangka panjang atau hanya mengembalikan kondisi rentan sebelumnya.
 
-This film saved the famous love song "As Time Goes By" from being removed from Casablanca (1942). Ingrid Bergman began filming this movie immediately after completing "Casablanca". For this role, her hair was cut short. Meanwhile, for "Casablanca", Warner Brothers wanted to substitute another song for "As Time Goes By" and re-shoot some scenes with Bergman. However, since her hair had been cut, there would be a problem with continuity (even if Bergman wore a wig), so the idea was dropped.
+Secara fiskal, Indonesia masih memiliki ruang gerak. Rasio utang publik relatif moderat dibandingkan negara berkembang lain, dan pendanaan pascabencana dapat dialihkan dari proyek-proyek berorientasi politis menuju pembangunan infrastruktur yang tangguh dan adaptif terhadap perubahan iklim. Berbagai kajian menunjukkan bahwa investasi secara proaktif dalam pengurangan risiko *(Risk Reduction)* memberikan manfaat ekonomi jangka panjang, mengurangi potensi kerugian, serta meningkatkan efisiensi belanja publik (GFDRR, 2016). Jika dikelola dengan efektif, rekonstruksi dapat meningkatkan kualitas belanja pembangunan secara berkelanjutan.
 
-## Gary Cooper's horse falls
+Sumber daya manusia juga menjadi faktor kunci. Rekonstruksi yang baik membutuhkan insinyur, perencana, geologis, auditor konstruksi, dan pekerja sosial yang kompeten. Namun banyak pemerintah daerah kekurangan tenaga profesional tersebut, sebagaimana ditunjukkan dalam riset mengenai tata kelola terdesentralisasi Indonesia (McCarthy, 2019). Kekurangan ini dapat mendorong pemerintah memperluas pelatihan teknis, memperketat penerapan kode bangunan, melibatkan universitas dalam penilaian risiko, serta memperkuat sistem pengawasan antardaerah.
 
-At the film's conclusion, Gary Cooper's horse falls and breaks its leg. The only horse the crew could get to do the stunt was brown, but Cooper's horse throughout the film was gray. Rather than re-shoot much of the film, Cooper's brown stunt horse was painted gray.
+Rekonstruksi juga dapat menjadi momentum untuk mengurangi ketimpangan pembangunan antarwilayah yang telah berlangsung lama. Kegiatan ekonomi Indonesia masih terkonsentrasi di Pulau Jawa terutama di kawasan metropolitan Jakarta. Sementara banyak daerah di luar Jawa tertinggal dalam pembangunan. Para ahli kebencanaan menekankan bahwa ketangguhan tidak hanya bertumpu pada kesiapsiagaan, tetapi juga pada pembangunan wilayah yang seimbang dan penciptaan peluang ekonomi yang merata (Gaillard, 2010). Menghubungkan pemulihan pascabencana dengan strategi pembangunan regional dapat memunculkan pusat pertumbuhan baru, mengurangi sentralisasi, dan memperkuat keadilan antarwilayah.
 
-# Trailer
+Namun pada akhirnya, arah perubahan ditentukan oleh dinamika politik. Jika pemerintah mengelola rekonstruksi secara transparan, kompeten, dan berorientasi pada keselamatan jangka panjang, kepercayaan publik dapat pulih dan menunjukkan bahwa demokrasi pasca-reformasi mampu menghasilkan kebijakan yang efektif. Penelitian mengenai politik krisis menunjukkan bahwa respons bencana yang baik dapat meningkatkan legitimasi politik dan kepercayaan masyarakat (Bermeo, 2016).
 
-<div>{%- include extensions/youtube.html id='-B3MQoKQ_vI' -%}</div>
+Transformasi seperti ini memang membuat tata kelola lebih kompleks, tetapi kompleksitas adalah suatu bagian dari demokrasi yang akuntabel. Pendekatan tersebut juga menciptakan ruang bagi penyelesaian berbagai persoalan yang lama tertunda, yaitu pembangunan tahan bencana, pengelolaan lahan berkelanjutan, adaptasi perubahan iklim, reformasi fiskal, serta penguatan institusi lokal, yang semuanya diakui sebagai kunci dalam mengurangi risiko bencana di masa depan (UNDRR, 2019).
 
-<script>
-  {%- include scripts/lib/swiper.js -%}
-var SOURCES = window.TEXT_VARIABLES.sources;
-window.Lazyload.js(SOURCES.jquery, function() {
-  $('.swiper-demo').swiper();
-});
-</script>
+Sebaliknya, jika rekonstruksi dikelola secara buruk, layaknya gempa Cianjur menjadi analogi dari “Topan Katrina Amerika Serikat” versi Indonesia, maka negara berisiko kembali ke pola kebijakan yang reaktif, sentralistis, dan berorientasi jangka pendek. Peluang untuk melakukan perubahan struktural dapat hilang.
+
+Jadi, akan ke mana Indonesia melangkah? Sebagai negara yang tangguh, beragam, dan memiliki kohesi sosial yang kuat, Indonesia tentu mampu membangun kembali Cianjur dan wilayah terdampak lainnya. Namun pertanyaan yang lebih penting adalah apakah rekonstruksi akan sekadar mengembalikan kondisi lama atau membuka jalan menuju masa depan yang lebih tangguh, adil, dan berorientasi ke depan.
+
+Sejarah telah menunjukkan bahwa Indonesia telah beberapa kali dibentuk ulang oleh krisis. Gempa Cianjur mungkin bukan hanya sebuah traged, bisa saja menjadi momentum yang mendorong negara ini untuk tidak hanya membangun kembali rumah dan infrastruktur, tetapi juga memperkuat tata kelola bencana, memperbaiki institusi politik, dan merumuskan ulang arah pembangunan untuk abad ke-21.
+
