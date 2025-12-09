@@ -5,10 +5,7 @@ tags: Opinion
 aside:
   toc: true
 ---
-<div class="hero hero--dark" style='background-image: url("https://a.ltrbxd.com/resized/sm/upload/0i/an/5g/rh/for%20whom-1200-1200-675-675-crop-000000.jpg?v=210f6c61c4");'>
- <div class="hero__content">
-  <h3></h3>
- </div>
+<div class="hero hero--dark" style='height: 800px; background-image: url("https://asset.kompas.com/crops/bvnmQIw7HE6WAMHRt7UnnnOhawA=/0x0:0x0/1200x800/data/photo/2022/11/22/637c7f6856888.jpg");'>
 </div>
 
 <style>
